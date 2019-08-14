@@ -1,0 +1,25 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+"bs4" = "*"
+requests = "*"
+jupyter = "*"
+openpyxl = "*"
+pdfplumber = "*"
+xlrd = "*"
+matplotlib = "*"
+selenium = "*"
+usaddress = "*"
+probablepeople = "*"
+pytz = "*"
+maya = "*"
+jupyter-console = "<5"
+prompt-toolkit = "*"
+pandas = "*"
+
+[dev-packages]
+
+[requires]
