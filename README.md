@@ -7,4 +7,6 @@ However, this data is not compiled all in one place, but put into a separate PDF
 
 The total: 4,458 incidents in 2015-16. See [this file](https://assets.documentcloud.org/documents/6922485/DC-Outplacement-Restraint-and-Seclusion.pdf) for the complete list on one page. 
 
-Read more at [USA Today].(https://www.usatoday.com/story/news/education/2020/07/25/disability-special-education-private-school-restraint/4737971002/)
+Read more at [USA Today.](https://www.usatoday.com/story/news/education/2020/07/25/disability-special-education-private-school-restraint/4737971002/)
+
+Thank you to Cody Winchester and Jacob Sanders for your help on this code.
