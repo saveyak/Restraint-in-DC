@@ -9,4 +9,4 @@ The total: 4,458 incidents in 2015-16. See [this file](https://assets.documentcl
 
 Read more at [USA Today.](https://www.usatoday.com/story/news/education/2020/07/25/disability-special-education-private-school-restraint/4737971002/)
 
-Thank you to Cody Winchester and Jacob Sanders for your help on this code.
+Thank you to Cody Winchester and Jacob Sanders for your help on this code. Feedback and corrections are highly appreciated. 
